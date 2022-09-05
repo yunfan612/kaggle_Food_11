@@ -4,7 +4,6 @@ Keras          2.4.3
 
 描述: 對kaggle Food 11資料庫做transfer learning (InceptionResNetV2)訓練與測試，共有11類食物
 
-
 dataset下載位置:https://www.kaggle.com/datasets/trolukovich/food11-image-dataset
 -------------train--------------
 Bread: 994
